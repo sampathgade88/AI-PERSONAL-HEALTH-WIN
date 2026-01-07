@@ -102,7 +102,7 @@ Models used include:
 * 🔗 *Multi-Agent Collaboration:*
   Agents communicate like a real medical team for better accuracy.
 
-* ❤️ *Personalized Care:*
+* ❤️ *Personalized Caree:*
   Recommendations change based on user behavior and symptoms.
 
 * 📉 *Risk Reduction:*
